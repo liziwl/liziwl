@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, this is Ziqiang Li（李子强 in Chinese）.
+
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=liziwl" />
 
 [![Ziqiang Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liziwl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liziwl&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
