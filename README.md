@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=liziwl" />
 
-Homepage / Resume: <https://liziwl.cn/>
+Homepage / Resume: <https://www.liziwl.cn/>
 
 Blog: <https://blog.liziwl.cn/>
 
