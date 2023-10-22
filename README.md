@@ -1,7 +1,5 @@
 ### Hi 👋, this is Ziqiang Li（李子强 in Chinese）.
 
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=liziwl" />
-
 Homepage / Resume: <https://www.liziwl.cn/>
 
 Blog: <https://blog.liziwl.cn/>
